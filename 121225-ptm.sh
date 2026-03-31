@@ -27,3 +27,4 @@ cp "$file" "$target_directory"
 echo "Скопирован файл: $file"
 done
 echo "Готово."
+# Test comment by Davit
